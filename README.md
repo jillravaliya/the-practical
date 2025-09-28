@@ -1,10 +1,10 @@
-# 🛠️ Network Troubleshooting — From Scratch to Deep  
+# Network Troubleshooting — From Scratch to Deep  
 
 Networking is the **circulatory system** of IT — if it breaks, everything breaks.  
 Servers, cloud apps, even your Wi-Fi at home rely on packets moving correctly from point A to point B.  
 
 But here’s the challenge:  
-👉 When something goes wrong, where do you even start?  
+When something goes wrong, where do you even start?  
 Is it the cable? The Wi-Fi? DNS? A blocked port?  
 
 This repo gives you a **structured 6-step framework** that I personally practiced on my own Linux system.  
@@ -12,7 +12,7 @@ It’s not just theory — each step includes **commands, screenshots, and real 
 
 ---
 
-## 🔹 Why a Framework?  
+## Why a Framework?  
 
 Without structure, troubleshooting = chaos.  
 You’ll waste hours rebooting routers, guessing random fixes, or reinstalling apps.  
@@ -30,7 +30,7 @@ It works because it’s **layered** (just like the OSI/TCP/IP models):
 
 ---
 
-## 🔹 The 6 Core Steps  
+## The 6 Core Steps  
 
 1. [Step 0: Check Interfaces & Routes](./step-0-check-interfaces/README.md)  
    → Do I even have an IP address? Do I know my gateway?  
@@ -55,5 +55,5 @@ It works because it’s **layered** (just like the OSI/TCP/IP models):
 
 ---
 
-👉 With this repo, you don’t just memorize commands.  
+With this repo, you don’t just memorize commands.  
 You learn to **think like a troubleshooter** — systematic, step by step, until the root cause is found.  

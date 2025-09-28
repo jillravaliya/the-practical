@@ -55,13 +55,5 @@ It works because it’s **layered** (just like the OSI/TCP/IP models):
 
 ---
 
-## 🔹 Who is this for?  
-
-- **Students** → learning Linux & networking basics.  
-- **DevOps/Cloud aspirants** → need hands-on troubleshooting skills.  
-- **Anyone stuck with "Why is my Wi-Fi not working?"**  
-
----
-
 👉 With this repo, you don’t just memorize commands.  
 You learn to **think like a troubleshooter** — systematic, step by step, until the root cause is found.  
